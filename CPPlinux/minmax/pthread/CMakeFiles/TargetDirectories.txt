@@ -1,0 +1,3 @@
+/home/collins/Documents/ki_labor/battlesnake-gruppe-8/CPPlinux/minmax/pthread/CMakeFiles/minmax_thread.dir
+/home/collins/Documents/ki_labor/battlesnake-gruppe-8/CPPlinux/minmax/pthread/CMakeFiles/edit_cache.dir
+/home/collins/Documents/ki_labor/battlesnake-gruppe-8/CPPlinux/minmax/pthread/CMakeFiles/rebuild_cache.dir

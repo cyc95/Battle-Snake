@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libminmax_thread.so -o libminmax_thread.so CMakeFiles/minmax_thread.dir/library.cpp.o CMakeFiles/minmax_thread.dir/simulator_environment.cpp.o CMakeFiles/minmax_thread.dir/BoardControl.cpp.o CMakeFiles/minmax_thread.dir/mcts.cpp.o CMakeFiles/minmax_thread.dir/uct_node.cpp.o 
